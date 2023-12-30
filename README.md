@@ -26,12 +26,6 @@ Includes ideas developed during my second collaboration with Iconn Group (7-Elev
 - Local UX/UI.
 
 
-## Reference attribution
-
-> [!NOTE]
-> The *src/tests* reference folder is derived from the [tensor-house repository](https://github.com/ikatsov/tensor-house), which is licensed under the Apache License 2.0. Copyright [2017] [Ilya Katsov].
-
-
 ## Contact
 
 Feel free to reach out if you have any questions or feedback.
